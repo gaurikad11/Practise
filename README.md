@@ -1,4 +1,4 @@
  # Practise
  hello!!
  <br>
- Author - Gauri Kad
+ Author - Gauri Kad (Data Scientist)
